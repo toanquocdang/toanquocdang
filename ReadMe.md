@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently studin
+I am a Data Science graduate from Ho Chi Minh City University of Industry
 
 
 ## 🌐 Socials:
